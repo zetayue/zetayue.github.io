@@ -14,7 +14,7 @@
     - CMLA 2020
 - **Journal Reviewer**:
     - Nature Communications
-    - Journal Of Cheminformatics
+    - Journal of Cheminformatics
     - Bioinformatics
     - PLOS Computational Biology
     - BMC Bioinformatics
@@ -24,4 +24,4 @@
 # Others
 - **Keynote Presentation**: 
     - Accurate High-throughput Cryptic Binding Site Prediction Using Protein Language Model. *International Conference on Intelligent Systems for Molecular Biology (ISMB)*, Jul. 2024.
-- **Hobby**: In my spare time, I enjoy reading, traveling, and exploring HiFi audio. I’ve also been interested in and trading crypto for nearly a decade.
+- **Hobby**: I enjoy reading, traveling, and exploring HiFi audio. I’ve also been interested in and trading crypto for nearly a decade.
