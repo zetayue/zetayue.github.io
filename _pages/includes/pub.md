@@ -11,6 +11,14 @@
 
 *Preprint*, 2025.
 
+[![](https://img.shields.io/github/stars/zetayue/ProMoNet?style=social&label=ProMoNet Stars)](https://github.com/zetayue/ProMoNet)
+
+\\
+[Protein Language Model-Powered 3D Ligand Binding Site Prediction from Protein Sequence](https://openreview.net/pdf?id=MK7gIPSter) \\
+**Shuo Zhang**, Lei Xie
+
+*Neural Information Processing Systems (NeurIPS) AI for Science Workshop*, 2023.
+
 </div>
 </div>
 
@@ -37,6 +45,12 @@ Rahul Ohlan, Raswanth Murugan, Li Xie, Mohammadsadeq Mottaqi, **Shuo Zhang**†,
 
 [![](https://img.shields.io/github/stars/XieResearchGroup/Physics-aware-Multiplex-GNN?style=social&label=Physics-aware-Multiplex-GNN Stars)](https://github.com/XieResearchGroup/Physics-aware-Multiplex-GNN)
 
+\\
+[Physics-aware Graph Neural Network for Accurate RNA 3D Structure Prediction](https://www.mlsb.io/papers_2022/Physics_aware_Graph_Neural_Network_for_Accurate_RNA_3D_Structure_Prediction.pdf) \\
+**Shuo Zhang**, Yang Liu, Lei Xie
+
+*Neural Information Processing Systems (NeurIPS) Machine Learning for Structural Biology (MLSB) Workshop*, 2022.
+
 </div>
 </div>
 
@@ -62,6 +76,8 @@ Amitesh Badkul, Li Xie, **Shuo Zhang**, Lei Xie
 Tian Cai, Li Xie, **Shuo Zhang**, Muge Chen, Di He, Amitesh Badkul, Yang Liu, Hari Krishna Namballa, Michael Dorogan, Wayne W. Harding, Cameron Mura, Philip E. Bourne, Lei Xie
 
 *PLOS Computational Biology*, 2023.
+
+[![](https://img.shields.io/github/stars/XieResearchGroup/PortalLearning?style=social&label=PortalCG Stars)](https://github.com/XieResearchGroup/PortalLearning)
 
 </div>
 </div>
