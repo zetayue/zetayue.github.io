@@ -7,12 +7,12 @@
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/eMOSAIC.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Multimodal Out-of-Distribution Individual Uncertainty Quantification Enhances Binding Affinity Prediction for Polypharmacology](https://www.biorxiv.org/content/10.1101/2024.01.05.574359v2) \\
+[Multimodal Out-of-Distribution Individual Uncertainty Quantification Enhances Binding Affinity Prediction for Polypharmacology](https://doi.org/10.1038/s42256-025-01151-2) \\
 Amitesh Badkul, Li Xie, **Shuo Zhang**, Lei Xie
 
-***Nature Machine Intelligence***, 2025 (Accepted in principle).
+***Nature Machine Intelligence***, 2025 (Impact factor: 23.9).
 
-[![](https://img.shields.io/github/stars/XieResearchGroup/eMOSAIC?style=social&label=eMOSAIC Stars)](https://github.com/XieResearchGroup/eMOSAIC)
+[![](https://img.shields.io/github/stars/XieResearchGroup/eMOSAIC?style=social&label=eMOSAIC Stars)](https://github.com/XieResearchGroup/eMOSAIC)&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/ScienMag-c43a2f)](https://scienmag.com/enhanced-uncertainty-quantification-boosts-polypharmacology-predictions/)&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/WeChat-AI%20in%20Graph-2DC100)](https://mp.weixin.qq.com/s/NMwImNxNKeOWtBfk02Ybuw)&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/WeChat-ComputArt-2DC100)](https://mp.weixin.qq.com/s/FQeTX69DazxGRAXQet5V_g)&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/WeChat-AI%20Protein-2DC100)](https://mp.weixin.qq.com/s/UAdF8CpImjglawr4LAgW7w)
 
 \\
 [TrustAffinity: Accurate, Reliable, and Scalable Out-of-Distribution Protein–Ligand Binding Affinity Prediction Using Trustworthy Deep Learning](https://openreview.net/forum?id=JaOXEQWqwK) \\
@@ -52,7 +52,7 @@ Zhujun Li, **Shuo Zhang**, Ioannis Stamos
 
 ***Neural Information Processing Systems (NeurIPS) AI for Science Workshop***, 2023.
 
-[![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-AICB%E8%AE%A1%E7%AE%97%E7%94%9F%E7%89%A9-2DC100)](https://mp.weixin.qq.com/s/BTJyueOnfe1ADagnnqa2pQ)
+[![](https://img.shields.io/badge/WeChat-AI%20CompBio-2DC100)](https://mp.weixin.qq.com/s/BTJyueOnfe1ADagnnqa2pQ)
 
 </div>
 </div>
@@ -78,7 +78,7 @@ Rahul Ohlan, Raswanth Murugan, Li Xie, Mohammadsadeq Mottaqi, **Shuo Zhang**†,
 
 ***Scientific Reports***, 2023.
 
-[![](https://img.shields.io/github/stars/XieResearchGroup/Physics-aware-Multiplex-GNN?style=social&label=Physics-aware-Multiplex-GNN Stars)](https://github.com/XieResearchGroup/Physics-aware-Multiplex-GNN)&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-DrugAI-2DC100)](https://mp.weixin.qq.com/s/4qpopoYWIsDW8Y41eR-yOA)
+[![](https://img.shields.io/github/stars/XieResearchGroup/Physics-aware-Multiplex-GNN?style=social&label=Physics-aware-Multiplex-GNN Stars)](https://github.com/XieResearchGroup/Physics-aware-Multiplex-GNN)&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/WeChat-DrugAI-2DC100)](https://mp.weixin.qq.com/s/4qpopoYWIsDW8Y41eR-yOA)
 
 
 
@@ -96,7 +96,7 @@ Rahul Ohlan, Raswanth Murugan, Li Xie, Mohammadsadeq Mottaqi, **Shuo Zhang**†,
 
 ***Neural Information Processing Systems (NeurIPS) Machine Learning for Structural Biology (MLSB) Workshop***, 2020.
 
-[![](https://img.shields.io/github/stars/zetayue/MXMNet?style=social&label=MXMNet Stars)](https://github.com/zetayue/MXMNet)&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-AI%20in%20Graph-2DC100)](https://mp.weixin.qq.com/s/Srj0YS2gtpUARF8lJIebNA)
+[![](https://img.shields.io/github/stars/zetayue/MXMNet?style=social&label=MXMNet Stars)](https://github.com/zetayue/MXMNet)&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/WeChat-AI%20in%20Graph-2DC100)](https://mp.weixin.qq.com/s/Srj0YS2gtpUARF8lJIebNA)
 
 </div>
 </div>
@@ -128,7 +128,7 @@ Tian Cai, Li Xie, **Shuo Zhang**, Muge Chen, Di He, Amitesh Badkul, Yang Liu, Ha
 
 ***International Joint Conference on Artificial Intelligence (IJCAI)***, 2020.
 
-<span style="color:red">Acceptance rate: 592/4717=12.6%.</span>
+Acceptance rate: 592/4717=12.6%.
 
 [![](https://img.shields.io/github/stars/zetayue/CPA?style=social&label=CPA Stars)](https://github.com/zetayue/CPA)
 

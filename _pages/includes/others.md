@@ -11,12 +11,13 @@
     - International Conference on Machine Learning (ICML) (2021 - 2025)
     - International Conference on Learning Representations (ICLR) (2022 - 2026)
     - International Conference on Computer Vision (ICCV) (2025)
-    - International Conference on Machine Learning & Applications (CMLA) 2020
+    - International Conference on Machine Learning & Applications (CMLA) (2020)
     - Machine Learning in Structural Biology (MLSB) Workshop (2023, 2025)
 - **Journal Reviewer**:
     - Nature Communications
     - Journal of Cheminformatics
     - Bioinformatics
+    - Journal of Chemical Information and Modeling
     - PLOS Computational Biology
     - BMC Bioinformatics
     - IEEE/ACM Transactions on Computational Biology and Bioinformatics
