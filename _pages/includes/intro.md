@@ -1,5 +1,5 @@
 # Biography
-I am a Research Associate at the [City University of New York (CUNY)](https://www.cuny.edu/) and [Weill Cornell Medicine, Cornell University](https://weill.cornell.edu/), working with Prof. [Lei Xie](https://www.cs.hunter.cuny.edu/~leixie/index.html). 
+I am a Research Associate at the [City University of New York (CUNY)](https://www.cuny.edu/) and [Weill Cornell Medicine, Cornell University](https://weill.cornell.edu/), working with Prof. [Lei Xie](https://bouve.northeastern.edu/directory/lei-xie/). 
 
 I earned my Ph.D. in Computer Science from the [Graduate Center, CUNY](https://www.gc.cuny.edu/), under the supervision of Prof. [Lei Xie](https://www.cs.hunter.cuny.edu/~leixie/index.html). Prior to that, I obtained my B.S. in Physics from the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), where I conducted research under the guidance of Prof. [Zhenyu Li](http://www.q2chemistry.net/resume.html) and Prof. [Wenhua Zhang](https://faculty.ustc.edu.cn/zhangwenhua1/en/index.htm). I also worked on computational materials science at the [University of Maryland, College Park (UMD)](https://umd.edu/). 
 
