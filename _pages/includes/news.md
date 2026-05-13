@@ -1,5 +1,17 @@
+<style>
+.news-scroll {
+  max-height: 300px;
+  overflow-y: auto;
+  padding-right: 12px;
+}
+</style>
+
 # News
 
+<div class="news-scroll" markdown="1">
+
+- [2026.05] 🎉 Our work "Sequence-based Drug-Target Binding Site Pre-training Enables Cryptic Pocket Detection and Improves Binding Affinity and Kinetics Prediction" is accepted by *Journal of Cheminformatics*!
+- [2026.05] 🎉 Our work "Virtual Cell Generative AI Enables Cell-Type-Targeted Therapeutic Design" is accepted by Annual International Conference on Intelligent Systems for Molecular Biology (ISMB)!
 - [2026.01] 🏆 Our team won ranked 6th overall, and ranked 1st among teams that didn’t use any extra molecular property data in [OpenADMET – ExpansionRx Blind Challenge](https://openadmet.ghost.io/the-openadmet-expansionrx-blind-challenge-has-come-to-an-end/), the largest ADMET prediction competition to date!
 - [2025.12] 🎉 Our work "Multimodal Out-of-Distribution Individual Uncertainty Quantification Enhances Binding Affinity Prediction for Polypharmacology" is accepted by *Nature Machine Intelligence*!
 - [2025.07] 🎉 Our work "Learning Point Cloud Representations with Pose Continuity for Depth-Based Category-Level 6D Object Pose Estimation" is accepted by Recovering 6D Object Pose (R6D) Workshop at International Conference on Computer Vision (ICCV)!
@@ -9,3 +21,5 @@
 - [2023.10] 🎉 Our work "Protein Language Model-Powered 3-Dimensional Ligand Binding Site Prediction from Protein Sequence" is accepted by AI for Science Workshop at Neural Information Processing Systems (NeurIPS)!
 - [2023.09] 🎓 I earned my Ph.D. in Computer Science from the Graduate Center, CUNY!
 - [2023.01] 🎉 Our work "End-to-End Sequence-Structure-Function Meta-Learning Predicts Genome-Wide Chemical-Protein Interactions for Dark Proteins" is accepted by *PLOS Computational Biology*!
+
+</div>

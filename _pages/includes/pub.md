@@ -4,13 +4,37 @@
 \* indicates equal contribution; † indicates corresponding author.
 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/promonet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Sequence-based Drug-Target Binding Site Pre-training Enables Cryptic Pocket Detection and Improves Binding Affinity and Kinetics Prediction](https://www.biorxiv.org/content/10.1101/2025.01.14.633076) \\
+**Shuo Zhang**, Li Xie, Daniel Tiourine, Lei Xie
+
+***Journal of Cheminformatics***, 2026 (5-year Impact Factor: 8.9).
+
+[![](https://img.shields.io/github/stars/zetayue/ProMoNet?style=social&label=ProMoNet Stars)](https://github.com/zetayue/ProMoNet)
+
+\\
+[Protein Language Model-Powered 3D Ligand Binding Site Prediction from Protein Sequence](https://openreview.net/pdf?id=MK7gIPSter) \\
+**Shuo Zhang**, Lei Xie
+
+***Neural Information Processing Systems (NeurIPS) AI for Science Workshop***, 2023.
+
+[![](https://img.shields.io/badge/WeChat-AI%20CompBio-2DC100)](https://mp.weixin.qq.com/s/BTJyueOnfe1ADagnnqa2pQ)
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/eMOSAIC.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multimodal Out-of-Distribution Individual Uncertainty Quantification Enhances Binding Affinity Prediction for Polypharmacology](https://doi.org/10.1038/s42256-025-01151-2) \\
 Amitesh Badkul, Li Xie, **Shuo Zhang**, Lei Xie
 
-***Nature Machine Intelligence***, 2025 (Impact factor: 23.9).
+***Nature Machine Intelligence***, 2025 (5-year Impact Factor: 31.8).
 
 [![](https://img.shields.io/github/stars/XieResearchGroup/eMOSAIC?style=social&label=eMOSAIC Stars)](https://github.com/XieResearchGroup/eMOSAIC)&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/ScienMag-c43a2f)](https://scienmag.com/enhanced-uncertainty-quantification-boosts-polypharmacology-predictions/)&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/WeChat-AI%20in%20Graph-2DC100)](https://mp.weixin.qq.com/s/NMwImNxNKeOWtBfk02Ybuw)&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/WeChat-ComputArt-2DC100)](https://mp.weixin.qq.com/s/FQeTX69DazxGRAXQet5V_g)&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/WeChat-AI%20Protein-2DC100)](https://mp.weixin.qq.com/s/UAdF8CpImjglawr4LAgW7w)
 
@@ -35,27 +59,6 @@ Zhujun Li, **Shuo Zhang**, Ioannis Stamos
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/promonet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Sequence-based Drug-Target Binding Site Pre-training Tackles Crypticity and Enhances Protein-Ligand Binding Process Predictions](https://www.biorxiv.org/content/10.1101/2025.01.14.633076) \\
-**Shuo Zhang**, Li Xie, Daniel Tiourine, Lei Xie
-
-*Preprint, under review*, 2025.
-
-[![](https://img.shields.io/github/stars/zetayue/ProMoNet?style=social&label=ProMoNet Stars)](https://github.com/zetayue/ProMoNet)
-
-\\
-[Protein Language Model-Powered 3D Ligand Binding Site Prediction from Protein Sequence](https://openreview.net/pdf?id=MK7gIPSter) \\
-**Shuo Zhang**, Lei Xie
-
-***Neural Information Processing Systems (NeurIPS) AI for Science Workshop***, 2023.
-
-[![](https://img.shields.io/badge/WeChat-AI%20CompBio-2DC100)](https://mp.weixin.qq.com/s/BTJyueOnfe1ADagnnqa2pQ)
-
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/molgene-e.png' alt="sym" width="100%"></div></div>

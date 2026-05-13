@@ -2,12 +2,12 @@
 # Research Word Cloud
 
 <div style="text-align: center;">
-  <img src="images/wordcloud.png" alt="Description" width="400">
+  <img src="images/wordcloud_03.png" alt="Description" width="600">
 </div>
 
 # Services
 - **Conference Reviewer**:
-    - Neural Information Processing Systems (NeurIPS) (2021 - 2025)
+    - Neural Information Processing Systems (NeurIPS) (2021 - 2026)
     - International Conference on Machine Learning (ICML) (2021 - 2025)
     - International Conference on Learning Representations (ICLR) (2022 - 2026)
     - International Conference on Computer Vision (ICCV) (2025)
