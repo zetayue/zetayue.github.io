@@ -51,7 +51,7 @@ Amitesh Badkul, Li Xie, **Shuo Zhang**, Lei Xie
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/HRC-Pose.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Learning Point Cloud Representations with Pose Continuity for Depth-Based Category-Level 6D Object Pose Estimation](https://arxiv.org/abs/2508.14358) \\
+[Learning Point Cloud Representations with Pose Continuity for Depth-Based Category-Level 6D Object Pose Estimation](https://openaccess.thecvf.com/content/ICCV2025W/R6D/html/Li_Learning_Point_Cloud_Representations_with_Pose_Continuity_for_Depth-Based_Category-Level_ICCVW_2025_paper.html) \\
 Zhujun Li, **Shuo Zhang**, Ioannis Stamos
 
 ***International Conference on Computer Vision (ICCV) Recovering 6D Object Pose (R6D) Workshop***, 2025.
@@ -94,7 +94,7 @@ Rahul Ohlan, Raswanth Murugan, Li Xie, Mohammadsadeq Mottaqi, **Shuo Zhang**†,
 ***Neural Information Processing Systems (NeurIPS) Machine Learning for Structural Biology (MLSB) Workshop***, 2022.
 
 \\
-[Molecular Mechanics-Driven Graph Neural Network with Multiplex Graph for Molecular Structures](https://ml4molecules.github.io/papers2020/ML4Molecules_2020_paper_16.pdf) \\
+[Molecular Mechanics-Driven Graph Neural Network with Multiplex Graph for Molecular Structures](https://www.mlsb.io/papers/MLSB2020_Molecular_Mechanics-Driven_Graph_Neural.pdf) \\
 **Shuo Zhang**, Yang Liu, Lei Xie
 
 ***Neural Information Processing Systems (NeurIPS) Machine Learning for Structural Biology (MLSB) Workshop***, 2020.
