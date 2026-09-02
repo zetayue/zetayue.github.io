@@ -10,8 +10,8 @@
 
 <div class="news-scroll" markdown="1">
 
-- [2026.05] 🎉 [ProMoNet](https://www.biorxiv.org/content/10.1101/2025.01.14.633076v2) has been accepted by *Journal of Cheminformatics*!
-- [2026.05] 🎉 GEM-GPT has been accepted to the Annual International Conference on Intelligent Systems for Molecular Biology (ISMB)!
+- [2026.05] 🎉 [ProMoNet](https://link.springer.com/article/10.1186/s13321-026-01227-0) has been accepted by *Journal of Cheminformatics*!
+- [2026.05] 🎉 [GEM-GPT](https://www.biorxiv.org/content/10.64898/2026.07.17.739269v1) has been accepted to the Annual International Conference on Intelligent Systems for Molecular Biology (ISMB)!
 - [2026.01] 🏆 Our team won ranked 6th overall, and ranked 1st among teams that didn’t use any extra molecular property data in [OpenADMET – ExpansionRx Blind Challenge](https://openadmet.ghost.io/the-openadmet-expansionrx-blind-challenge-has-come-to-an-end/), the largest ADMET prediction competition to date!
 - [2025.12] 🎉 [eMOSAIC](https://www.nature.com/articles/s42256-025-01151-2) has been accepted by *Nature Machine Intelligence*!
 - [2025.07] 🎉 [HRC-Pose](https://openaccess.thecvf.com/content/ICCV2025W/R6D/html/Li_Learning_Point_Cloud_Representations_with_Pose_Continuity_for_Depth-Based_Category-Level_ICCVW_2025_paper.html) has been accepted to the Recovering 6D Object Pose (R6D) Workshop at International Conference on Computer Vision (ICCV)!

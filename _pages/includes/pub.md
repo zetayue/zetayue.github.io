@@ -8,10 +8,10 @@
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/promonet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Sequence-based Drug-Target Binding Site Pre-training Enables Cryptic Pocket Detection and Improves Binding Affinity and Kinetics Prediction](https://www.biorxiv.org/content/10.1101/2025.01.14.633076) \\
+[Sequence-based Drug-Target Binding Site Pre-training Enables Cryptic Pocket Detection and Improves Binding Affinity and Kinetics Prediction](https://link.springer.com/article/10.1186/s13321-026-01227-0) \\
 **Shuo Zhang**, Li Xie, Daniel Tiourine, Lei Xie
 
-***Journal of Cheminformatics***, 2026 (5-year Impact Factor: 8.9).
+***Journal of Cheminformatics***, 2026 (Impact Factor: 7.9).
 
 [![](https://img.shields.io/github/stars/zetayue/ProMoNet?style=social&label=ProMoNet Stars)](https://github.com/zetayue/ProMoNet)
 
@@ -34,7 +34,7 @@
 [Multimodal Out-of-Distribution Individual Uncertainty Quantification Enhances Binding Affinity Prediction for Polypharmacology](https://doi.org/10.1038/s42256-025-01151-2) \\
 Amitesh Badkul, Li Xie, **Shuo Zhang**, Lei Xie
 
-***Nature Machine Intelligence***, 2025 (5-year Impact Factor: 31.8).
+***Nature Machine Intelligence***, 2025 (Impact Factor: 29.8).
 
 [![](https://img.shields.io/github/stars/XieResearchGroup/eMOSAIC?style=social&label=eMOSAIC Stars)](https://github.com/XieResearchGroup/eMOSAIC)&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/ScienMag-c43a2f)](https://scienmag.com/enhanced-uncertainty-quantification-boosts-polypharmacology-predictions/)&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/WeChat-AI%20in%20Graph-2DC100)](https://mp.weixin.qq.com/s/NMwImNxNKeOWtBfk02Ybuw)&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/WeChat-ComputArt-2DC100)](https://mp.weixin.qq.com/s/FQeTX69DazxGRAXQet5V_g)&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/WeChat-AI%20Protein-2DC100)](https://mp.weixin.qq.com/s/UAdF8CpImjglawr4LAgW7w)
 
