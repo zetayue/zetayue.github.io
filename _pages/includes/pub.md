@@ -1,5 +1,5 @@
 
-# Publications {#publications}
+# Selected Publications {#publications}
 
 \* indicates equal contribution; † indicates corresponding author.
 
@@ -9,19 +9,11 @@
 <div class='paper-box-text' markdown="1">
 
 [Sequence-based Drug-Target Binding Site Pre-training Enables Cryptic Pocket Detection and Improves Binding Affinity and Kinetics Prediction](https://link.springer.com/article/10.1186/s13321-026-01227-0) \\
-**Shuo Zhang**, Li Xie, Daniel Tiourine, Lei Xie
+**Shuo Zhang**†, Li Xie, Daniel Tiourine, Lei Xie†
 
 ***Journal of Cheminformatics***, 2026 (Impact Factor: 7.9).
 
 [![](https://img.shields.io/github/stars/zetayue/ProMoNet?style=social&label=ProMoNet Stars)](https://github.com/zetayue/ProMoNet)
-
-\\
-[Protein Language Model-Powered 3D Ligand Binding Site Prediction from Protein Sequence](https://openreview.net/pdf?id=MK7gIPSter) \\
-**Shuo Zhang**, Lei Xie
-
-***Neural Information Processing Systems (NeurIPS) AI for Science Workshop***, 2023.
-
-[![](https://img.shields.io/badge/WeChat-AI%20CompBio-2DC100)](https://mp.weixin.qq.com/s/BTJyueOnfe1ADagnnqa2pQ)
 
 </div>
 </div>
@@ -38,24 +30,6 @@ Amitesh Badkul, Li Xie, **Shuo Zhang**, Lei Xie
 
 [![](https://img.shields.io/github/stars/XieResearchGroup/eMOSAIC?style=social&label=eMOSAIC Stars)](https://github.com/XieResearchGroup/eMOSAIC)&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/ScienMag-c43a2f)](https://scienmag.com/enhanced-uncertainty-quantification-boosts-polypharmacology-predictions/)&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/WeChat-AI%20in%20Graph-2DC100)](https://mp.weixin.qq.com/s/NMwImNxNKeOWtBfk02Ybuw)&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/WeChat-ComputArt-2DC100)](https://mp.weixin.qq.com/s/FQeTX69DazxGRAXQet5V_g)&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/WeChat-AI%20Protein-2DC100)](https://mp.weixin.qq.com/s/UAdF8CpImjglawr4LAgW7w)
 
-\\
-[TrustAffinity: Accurate, Reliable, and Scalable Out-of-Distribution Protein–Ligand Binding Affinity Prediction Using Trustworthy Deep Learning](https://openreview.net/forum?id=JaOXEQWqwK) \\
-Amitesh Badkul, Li Xie, **Shuo Zhang**, Lei Xie
-
-***Neural Information Processing Systems (NeurIPS) New Frontiers of AI for Drug Discovery and Development (AI4D3) Workshop***, 2023.
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/HRC-Pose.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Learning Point Cloud Representations with Pose Continuity for Depth-Based Category-Level 6D Object Pose Estimation](https://openaccess.thecvf.com/content/ICCV2025W/R6D/html/Li_Learning_Point_Cloud_Representations_with_Pose_Continuity_for_Depth-Based_Category-Level_ICCVW_2025_paper.html) \\
-Zhujun Li, **Shuo Zhang**, Ioannis Stamos
-
-***International Conference on Computer Vision (ICCV) Recovering 6D Object Pose (R6D) Workshop***, 2025.
-
 </div>
 </div>
 
@@ -65,12 +39,30 @@ Zhujun Li, **Shuo Zhang**, Ioannis Stamos
 <div class='paper-box-text' markdown="1">
 
 [MolGene-E: Inverse Molecular Design to Modulate Single Cell Transcriptomics](https://openreview.net/forum?id=WBaXgzYvaj) \\
-Rahul Ohlan, Raswanth Murugan, Li Xie, Mohammadsadeq Mottaqi, **Shuo Zhang**†, Lei Xie
+Rahul Ohlan, Raswanth Murugan, Li Xie, Mohammadsadeq Mottaqi, **Shuo Zhang**†, Lei Xie†
 
 ***International Conference on Machine Learning (ICML) AI4Science Workshop***, 2024.
 
 </div>
 </div>
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/LaMPSite.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Protein Language Model-Powered 3D Ligand Binding Site Prediction from Protein Sequence](https://openreview.net/pdf?id=MK7gIPSter) \\
+**Shuo Zhang**, Lei Xie
+
+***Neural Information Processing Systems (NeurIPS) AI for Science Workshop***, 2023.
+
+[![](https://img.shields.io/badge/WeChat-AI%20CompBio-2DC100)](https://mp.weixin.qq.com/s/BTJyueOnfe1ADagnnqa2pQ)
+
+</div>
+</div>
+
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/pamnet.png' alt="sym" width="100%"></div></div>
@@ -82,24 +74,6 @@ Rahul Ohlan, Raswanth Murugan, Li Xie, Mohammadsadeq Mottaqi, **Shuo Zhang**†,
 ***Scientific Reports***, 2023.
 
 [![](https://img.shields.io/github/stars/XieResearchGroup/Physics-aware-Multiplex-GNN?style=social&label=Physics-aware-Multiplex-GNN Stars)](https://github.com/XieResearchGroup/Physics-aware-Multiplex-GNN)&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/WeChat-DrugAI-2DC100)](https://mp.weixin.qq.com/s/4qpopoYWIsDW8Y41eR-yOA)
-
-
-
-
-
-\\
-[Physics-aware Graph Neural Network for Accurate RNA 3D Structure Prediction](https://www.mlsb.io/papers_2022/Physics_aware_Graph_Neural_Network_for_Accurate_RNA_3D_Structure_Prediction.pdf) \\
-**Shuo Zhang**, Yang Liu, Lei Xie
-
-***Neural Information Processing Systems (NeurIPS) Machine Learning for Structural Biology (MLSB) Workshop***, 2022.
-
-\\
-[Molecular Mechanics-Driven Graph Neural Network with Multiplex Graph for Molecular Structures](https://www.mlsb.io/papers/MLSB2020_Molecular_Mechanics-Driven_Graph_Neural.pdf) \\
-**Shuo Zhang**, Yang Liu, Lei Xie
-
-***Neural Information Processing Systems (NeurIPS) Machine Learning for Structural Biology (MLSB) Workshop***, 2020.
-
-[![](https://img.shields.io/github/stars/zetayue/MXMNet?style=social&label=MXMNet Stars)](https://github.com/zetayue/MXMNet)&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/WeChat-AI%20in%20Graph-2DC100)](https://mp.weixin.qq.com/s/Srj0YS2gtpUARF8lJIebNA)
 
 </div>
 </div>
@@ -122,6 +96,35 @@ Tian Cai, Li Xie, **Shuo Zhang**, Muge Chen, Di He, Amitesh Badkul, Yang Liu, Ha
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/PaxNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Physics-aware Graph Neural Network for Accurate RNA 3D Structure Prediction](https://www.mlsb.io/papers_2022/Physics_aware_Graph_Neural_Network_for_Accurate_RNA_3D_Structure_Prediction.pdf) \\
+**Shuo Zhang**, Yang Liu, Lei Xie
+
+***Neural Information Processing Systems (NeurIPS) Machine Learning for Structural Biology (MLSB) Workshop***, 2022.
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/mxmnet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Molecular Mechanics-Driven Graph Neural Network with Multiplex Graph for Molecular Structures](https://www.mlsb.io/papers/MLSB2020_Molecular_Mechanics-Driven_Graph_Neural.pdf) \\
+**Shuo Zhang**, Yang Liu, Lei Xie
+
+***Neural Information Processing Systems (NeurIPS) Machine Learning for Structural Biology (MLSB) Workshop***, 2020.
+
+[![](https://img.shields.io/github/stars/zetayue/MXMNet?style=social&label=MXMNet Stars)](https://github.com/zetayue/MXMNet)&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/WeChat-AI%20in%20Graph-2DC100)](https://mp.weixin.qq.com/s/Srj0YS2gtpUARF8lJIebNA)
+
+</div>
+</div>
+
+
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/cpa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -134,12 +137,6 @@ Tian Cai, Li Xie, **Shuo Zhang**, Muge Chen, Di He, Amitesh Badkul, Yang Liu, Ha
 Acceptance rate: 592/4717=12.6%.
 
 [![](https://img.shields.io/github/stars/zetayue/CPA?style=social&label=CPA Stars)](https://github.com/zetayue/CPA)
-
-\\
-[Enhancing Attention-based Graph Neural Networks via Cardinality Preservation](https://deep-learning-graphs.bitbucket.io/dlg-aaai20/accepted_papers/DLGMA_2020_paper_18.pdf) \\
-**Shuo Zhang**, Lei Xie
-
-***AAAI Conference on Artificial Intelligence (AAAI) Deep Learning on Graphs (DLG) Workshop***, 2020.
 
 </div>
 </div>
