@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shuo Zhang"
-description              : "Research Associate | Ph.D. in Computer Science"
+description              : "Research Scientist | Ph.D. in Computer Science"
 repository               : "zetayue/zetayue.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :
 author:
   name             : "Shuo Zhang"
   avatar           : "images/small_head2.png"
-  bio              : "Research Foundation of CUNY"
-  location         : "New York, US"
+  bio              : "Northeastern University"
+  location         : "Boston, MA, USA"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=2iqQ30EAAAAJ"
-  email            : "szhang4@gradcenter.cuny.edu"
+  email            : "shuo.zhang@northeastern.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
